@@ -3,3 +3,5 @@
 This is a silly little app for generating linux init scripts for LSB and systemd systems 
 
 It's being written in elm beause that is what I am trying to pick up at the moment.
+
+It also contains the necessary meta data to let it deploy to heroku at https://initme.herokuapp.com
