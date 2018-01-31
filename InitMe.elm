@@ -58,7 +58,7 @@ viewInputs =
     div []
         [ div [] [ text "Working directory:", input [ type_ "text" ] [] ]
         , div [] [ text "input1", input [ type_ "text" ] [] ]
-        , div [] [ text "input1", button [] [ text "Update" ] ]
+        , div [] [ button [] [ text "Update" ] ]
         ]
 
 
